@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jspxcms/!svn/ver/13/jspxcmsv6/WebRoot/template/1/default
+END
+sys_member_register_message.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_register_message.html
+END
+sys_guestbook_item.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_guestbook_item.html
+END
+info_doc.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/info_doc.html
+END
+sys_member_my_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_my_header.html
+END
+sys_member_space_article.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_space_article.html
+END
+sys_member_my_left.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_my_left.html
+END
+sys_member_profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_profile.html
+END
+sys_comment_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_comment_list.html
+END
+sys_member_retrieve_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_retrieve_password.html
+END
+list_doc.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/list_doc.html
+END
+sys_guestbook.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_guestbook.html
+END
+sys_search.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_search.html
+END
+sys_member_avatar.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_avatar.html
+END
+cover_video.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/cover_video.html
+END
+info_photo.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/info_photo.html
+END
+sys_question.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_question.html
+END
+cover_news.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/cover_news.html
+END
+cover_product.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/cover_product.html
+END
+sys_member_space.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_space.html
+END
+sys_member_verify_member.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_verify_member.html
+END
+sys_oauth_register.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_oauth_register.html
+END
+list_photo.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/list_photo.html
+END
+sys_operation_success.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_operation_success.html
+END
+inc_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/inc_footer.html
+END
+sys_questions.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_questions.html
+END
+info_product.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/info_product.html
+END
+sys_member_login.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_login.html
+END
+sys_member_contribution_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_contribution_list.html
+END
+sys_member_login_include.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_login_include.html
+END
+app_querypage.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/app_querypage.html
+END
+sys_vote_view.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_vote_view.html
+END
+sys_rss.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_rss.html
+END
+cover_download.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/cover_download.html
+END
+sys_vote.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_vote.html
+END
+list_product.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/list_product.html
+END
+sys_member_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_email.html
+END
+info_recruitment.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/info_recruitment.html
+END
+sys_special.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_special.html
+END
+inc_friendlink.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/inc_friendlink.html
+END
+inc_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/inc_header.html
+END
+sys_operation_warning.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_operation_warning.html
+END
+info_news.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/info_news.html
+END
+cover_photo.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/cover_photo.html
+END
+plug_resume.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/13/jspxcmsv6/WebRoot/template/1/default/plug_resume.html
+END
+sys_member_contribution_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_contribution_form.html
+END
+sys_specials_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_specials_list.html
+END
+list_recruitment.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/list_recruitment.html
+END
+sys_member_login_ajax.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_login_ajax.html
+END
+sys_comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_comment.html
+END
+inc_news_right.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/inc_news_right.html
+END
+sys_member_space_comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_space_comment.html
+END
+sys_rss_center.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_rss_center.html
+END
+list_news.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/list_news.html
+END
+sys_tag.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_tag.html
+END
+sys_member_my.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_my.html
+END
+list.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/list.html
+END
+page.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/page.html
+END
+info_video.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/info_video.html
+END
+info_download.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/info_download.html
+END
+sys_guestbook_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_guestbook_form.html
+END
+sys_member_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_password.html
+END
+sys_tags.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_tags.html
+END
+sys_sitemap.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_sitemap.html
+END
+list_video.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/list_video.html
+END
+sys_specials.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_specials.html
+END
+list_download.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/list_download.html
+END
+sys_question_result.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_question_result.html
+END
+inc_js.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/inc_js.html
+END
+sys_member_forgot_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_forgot_password.html
+END
+sys_operation_error.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_operation_error.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/index.html
+END
+sys_member_register.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/sys_member_register.html
+END
+inc_oauth.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/template/1/default/inc_oauth.html
+END

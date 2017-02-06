@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/site
+END
+site_form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/site/site_form.jsp
+END
+site_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/site/site_list.jsp
+END
+choose_site_tree.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/site/choose_site_tree.jsp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/fulltext
+END
+FInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/fulltext/FInfo.java
+END
+InfoFulltextService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/fulltext/InfoFulltextService.java
+END
+InfoFulltextServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/fulltext/InfoFulltextServiceImpl.java
+END
+InfoFulltextDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/fulltext/InfoFulltextDao.java
+END
+InfoFulltextDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/fulltext/InfoFulltextDaoImpl.java
+END
+InfoFulltextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/fulltext/InfoFulltextListener.java
+END
+InfoFulltextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/fulltext/InfoFulltextGenerator.java
+END
+InfoFulltextGeneratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/fulltext/InfoFulltextGeneratorImpl.java
+END

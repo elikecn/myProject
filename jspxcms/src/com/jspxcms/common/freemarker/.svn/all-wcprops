@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker
+END
+FreeMarkerViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/FreeMarkerViewResolver.java
+END
+HttpRequestParametersHashModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/HttpRequestParametersHashModel.java
+END
+AdapterTemplateLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/AdapterTemplateLoader.java
+END
+PagingMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/PagingMethod.java
+END
+Freemarkers.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/Freemarkers.java
+END
+AddParamDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/AddParamDirective.java
+END
+AdapterFreeMarkerConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/AdapterFreeMarkerConfigurer.java
+END
+AnchorDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/AnchorDirective.java
+END
+AddParamMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/AddParamMethod.java
+END
+AnchorMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/AnchorMethod.java
+END
+ImageAnchorDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/ImageAnchorDirective.java
+END
+FreeMarkerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/FreeMarkerView.java
+END
+BBCodeMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/BBCodeMethod.java
+END
+SubstringMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/SubstringMethod.java
+END
+ProcessedMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/ProcessedMethod.java
+END
+HttpRequestParameterValuesHashModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/freemarker/HttpRequestParameterValuesHashModel.java
+END

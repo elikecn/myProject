@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/security/oauth
+END
+OAuthRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/security/oauth/OAuthRealm.java
+END
+OAuthToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/security/oauth/OAuthToken.java
+END
+OAuthFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/security/oauth/OAuthFilter.java
+END

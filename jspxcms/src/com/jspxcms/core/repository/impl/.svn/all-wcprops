@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl
+END
+InfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/InfoDaoImpl.java
+END
+SQLDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/SQLDaoImpl.java
+END
+ModelDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/ModelDaoImpl.java
+END
+TaskDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/TaskDaoImpl.java
+END
+OperationLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/OperationLogDaoImpl.java
+END
+CommentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/CommentDaoImpl.java
+END
+AttributeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/AttributeDaoImpl.java
+END
+SiteDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/SiteDaoImpl.java
+END
+TagDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/TagDaoImpl.java
+END
+SpecialCategoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/SpecialCategoryDaoImpl.java
+END
+UserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/UserDaoImpl.java
+END
+SpecialDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/SpecialDaoImpl.java
+END
+PublishPointDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/PublishPointDaoImpl.java
+END
+NodeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/NodeDaoImpl.java
+END
+AttachmentRefDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/AttachmentRefDaoImpl.java
+END
+ScheduleJobDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/ScheduleJobDaoImpl.java
+END
+VoteMarkDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/VoteMarkDaoImpl.java
+END
+AttachmentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/AttachmentDaoImpl.java
+END
+ScoreGroupDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/impl/ScoreGroupDaoImpl.java
+END

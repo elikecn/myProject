@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl
+END
+SQLServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/SQLServiceImpl.java
+END
+InfoMemberGroupServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoMemberGroupServiceImpl.java
+END
+RoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/RoleServiceImpl.java
+END
+UserDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/UserDetailServiceImpl.java
+END
+CommentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/CommentServiceImpl.java
+END
+InfoOrgServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoOrgServiceImpl.java
+END
+ModelFieldServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/ModelFieldServiceImpl.java
+END
+GlobalShiroServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/GlobalShiroServiceImpl.java
+END
+NodeRoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/NodeRoleServiceImpl.java
+END
+WorkflowProcessServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/WorkflowProcessServiceImpl.java
+END
+SiteShiroServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/SiteShiroServiceImpl.java
+END
+WorkflowServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/WorkflowServiceImpl.java
+END
+InfoDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoDetailServiceImpl.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/UserServiceImpl.java
+END
+InfoAttributeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoAttributeServiceImpl.java
+END
+PublishPointServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/PublishPointServiceImpl.java
+END
+InfoQueryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoQueryServiceImpl.java
+END
+ScoreBoardServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/ScoreBoardServiceImpl.java
+END
+UserMemberGroupServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/UserMemberGroupServiceImpl.java
+END
+MemberGroupServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/MemberGroupServiceImpl.java
+END
+InfoBufferServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoBufferServiceImpl.java
+END
+UserOrgServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/UserOrgServiceImpl.java
+END
+ScheduleJobServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/ScheduleJobServiceImpl.java
+END
+OrgServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/OrgServiceImpl.java
+END
+InfoTagServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoTagServiceImpl.java
+END
+WorkflowGroupServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/WorkflowGroupServiceImpl.java
+END
+AttachmentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/AttachmentServiceImpl.java
+END
+NodeMemberGroupServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/NodeMemberGroupServiceImpl.java
+END
+ScoreItemServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/ScoreItemServiceImpl.java
+END
+InfoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoServiceImpl.java
+END
+InfoSpecialServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoSpecialServiceImpl.java
+END
+NodeOrgServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/NodeOrgServiceImpl.java
+END
+ModelServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/ModelServiceImpl.java
+END
+GlobalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/GlobalServiceImpl.java
+END
+UserRoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/UserRoleServiceImpl.java
+END
+InfoNodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/InfoNodeServiceImpl.java
+END
+OperationLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/OperationLogServiceImpl.java
+END
+TaskServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/TaskServiceImpl.java
+END
+AttributeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/AttributeServiceImpl.java
+END
+SiteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/SiteServiceImpl.java
+END
+SensitiveWordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/SensitiveWordServiceImpl.java
+END
+WorkflowStepServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/WorkflowStepServiceImpl.java
+END
+NodeDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/NodeDetailServiceImpl.java
+END
+NodeQueryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/NodeQueryServiceImpl.java
+END
+TagServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/TagServiceImpl.java
+END
+WorkflowLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/WorkflowLogServiceImpl.java
+END
+SpecialCategoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/SpecialCategoryServiceImpl.java
+END
+NodeBufferServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/NodeBufferServiceImpl.java
+END
+SpecialServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/SpecialServiceImpl.java
+END
+UserShiroServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/UserShiroServiceImpl.java
+END
+AttachmentRefServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/AttachmentRefServiceImpl.java
+END
+NodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/NodeServiceImpl.java
+END
+ScoreGroupServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/ScoreGroupServiceImpl.java
+END
+VoteMarkServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/VoteMarkServiceImpl.java
+END
+WorkflowStepRoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/service/impl/WorkflowStepRoleServiceImpl.java
+END

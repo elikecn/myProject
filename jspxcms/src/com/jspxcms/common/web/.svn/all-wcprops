@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web
+END
+DropOversizeFilesMultipartResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/DropOversizeFilesMultipartResolver.java
+END
+ImageAnchorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/ImageAnchorBean.java
+END
+UploadResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/UploadResponse.java
+END
+ElFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/ElFunction.java
+END
+Servlets.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/Servlets.java
+END
+JspDispatcherFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/JspDispatcherFilter.java
+END
+Anchor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/Anchor.java
+END
+ImageAnchor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/ImageAnchor.java
+END
+Validations.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/Validations.java
+END
+PathResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/PathResolver.java
+END
+BindingInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/BindingInitializer.java
+END
+BBCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/BBCode.java
+END
+PageUrlResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/PageUrlResolver.java
+END
+DateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/DateEditor.java
+END
+PageableArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/PageableArgumentResolver.java
+END
+TimerFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/TimerFilter.java
+END
+ServletContextPathResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/ServletContextPathResolver.java
+END
+StringEmptyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/StringEmptyEditor.java
+END
+KeepSessionServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/web/KeepSessionServlet.java
+END

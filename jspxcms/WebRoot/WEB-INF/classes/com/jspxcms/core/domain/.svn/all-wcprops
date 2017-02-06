@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain
+END
+InfoMemberGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoMemberGroup.java
+END
+InfoNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoNode.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Comment.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Attribute.java
+END
+GlobalMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/GlobalMail.java
+END
+ModelField.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/ModelField.java
+END
+SensitiveWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/SensitiveWord.java
+END
+Workflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Workflow.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Tag.java
+END
+InfoDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoDetail.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/User.java
+END
+NodeBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/NodeBuffer.java
+END
+PublishPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/PublishPoint.java
+END
+SiteWatermark.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/SiteWatermark.java
+END
+SpecialImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/SpecialImage.java
+END
+MemberGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/MemberGroup.java
+END
+AttachmentRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/AttachmentRef.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Node.java
+END
+UserOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/UserOrg.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Attachment.java
+END
+ScoreItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/ScoreItem.java
+END
+NodeMemberGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/NodeMemberGroup.java
+END
+InfoSpecial.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoSpecial.java
+END
+UserRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/UserRole.java
+END
+Global.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Global.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Model.java
+END
+UserDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/UserDetail.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Role.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Task.java
+END
+GlobalOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/GlobalOther.java
+END
+OperationLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/OperationLog.java
+END
+InfoOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoOrg.java
+END
+Site.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Site.java
+END
+GlobalRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/GlobalRegister.java
+END
+GlobalUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/GlobalUpload.java
+END
+WorkflowStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/WorkflowStep.java
+END
+NodeRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/NodeRole.java
+END
+NodeDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/NodeDetail.java
+END
+WorkflowProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/WorkflowProcess.java
+END
+WorkflowLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/WorkflowLog.java
+END
+InfoComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoComment.java
+END
+SpecialCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/SpecialCategory.java
+END
+InfoAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoAttribute.java
+END
+Special.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Special.java
+END
+SpecialFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/SpecialFile.java
+END
+ScoreBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/ScoreBoard.java
+END
+UserMemberGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/UserMemberGroup.java
+END
+InfoBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoBuffer.java
+END
+InfoTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoTag.java
+END
+Org.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Org.java
+END
+ScheduleJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/ScheduleJob.java
+END
+SiteComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/SiteComment.java
+END
+WorkflowGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/WorkflowGroup.java
+END
+ScoreGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/ScoreGroup.java
+END
+VoteMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/VoteMark.java
+END
+WorkflowStepRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/WorkflowStepRole.java
+END
+InfoProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoProcess.java
+END
+Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/Info.java
+END
+InfoFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoFile.java
+END
+NodeOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/NodeOrg.java
+END
+InfoImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domain/InfoImage.java
+END

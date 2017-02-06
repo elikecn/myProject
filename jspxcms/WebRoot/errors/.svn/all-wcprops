@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/errors
+END
+500.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/errors/500.jsp
+END
+403.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/errors/403.jsp
+END
+404.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/errors/404.jsp
+END
+data_integrity_violation_exception.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/errors/data_integrity_violation_exception.jsp
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/errors/404.html
+END
+cms_exception.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/errors/cms_exception.jsp
+END
+delete_exception.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/errors/delete_exception.jsp
+END
+400.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/errors/400.jsp
+END

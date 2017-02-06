@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/listener
+END
+AdSlotDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/listener/AdSlotDeleteListener.java
+END
+FriendlinkTypeDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/listener/FriendlinkTypeDeleteListener.java
+END
+QuestionDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/listener/QuestionDeleteListener.java
+END
+GuestbookTypeDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/listener/GuestbookTypeDeleteListener.java
+END

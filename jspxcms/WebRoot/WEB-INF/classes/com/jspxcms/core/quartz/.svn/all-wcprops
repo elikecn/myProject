@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/quartz
+END
+HtmlUpdateJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/quartz/HtmlUpdateJob.java
+END
+DynamicScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/quartz/DynamicScheduler.java
+END
+DynamicSchedulerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/quartz/DynamicSchedulerImpl.java
+END
+HtmlHomeJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/quartz/HtmlHomeJob.java
+END
+InfoPublishJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/quartz/InfoPublishJob.java
+END

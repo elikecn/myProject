@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/html
+END
+HtmlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/html/HtmlService.java
+END
+PNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/html/PNode.java
+END
+HtmlServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/html/HtmlServiceImpl.java
+END
+HtmlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/html/HtmlDao.java
+END
+HtmlDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/html/HtmlDaoImpl.java
+END
+HtmlGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/html/HtmlGenerator.java
+END
+PInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/html/PInfo.java
+END
+HtmlGeneratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/html/HtmlGeneratorImpl.java
+END

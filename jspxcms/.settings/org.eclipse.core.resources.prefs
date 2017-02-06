@@ -1,0 +1,14 @@
+#Fri Apr 08 16:31:37 CST 2016
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/conf/custom.properties=UTF-8
+encoding//WebRoot/template/1/default/inc_footer.html=UTF-8
+encoding//WebRoot/template/1/default/inc_header.html=UTF-8
+encoding//WebRoot/template/1/default/index.html=UTF-8
+encoding//WebRoot/template/1/default/plug_resume.html=UTF-8
+encoding//WebRoot/template/1/default/sys_special.html=UTF-8
+encoding//WebRoot/template/1/default/sys_specials.html=UTF-8
+encoding//WebRoot/template/1/default/sys_specials_list.html=UTF-8
+encoding//WebRoot/template/1/default/sys_vote.html=UTF-8
+encoding//WebRoot/template/1/default/sys_vote_view.html=UTF-8
+encoding//src/com/jspxcms/common/ip/IPSeeker.java=UTF-8
+encoding/<project>=UTF-8

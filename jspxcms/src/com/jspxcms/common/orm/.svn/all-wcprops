@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm
+END
+MyJpaRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/MyJpaRepository.java
+END
+MyJpaSpecificationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/MyJpaSpecificationExecutor.java
+END
+Limitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/Limitable.java
+END
+LimitRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/LimitRequest.java
+END
+MyJpaRepositoryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/MyJpaRepositoryFactory.java
+END
+MyQueryDslJpaRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/MyQueryDslJpaRepository.java
+END
+QuerydslUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/QuerydslUtils.java
+END
+MySimpleJpaRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/MySimpleJpaRepository.java
+END
+EmptyToNullInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/EmptyToNullInterceptor.java
+END
+SearchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/SearchFilter.java
+END
+RowSide.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/RowSide.java
+END
+JpqlBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/JpqlBuilder.java
+END
+MyJpaRepositoryFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/MyJpaRepositoryFactoryBean.java
+END
+MyQueryDslPredicateExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/orm/MyQueryDslPredicateExecutor.java
+END

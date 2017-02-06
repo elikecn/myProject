@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service
+END
+QuestionItemRecService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/QuestionItemRecService.java
+END
+QuestionOptRecService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/QuestionOptRecService.java
+END
+AdService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/AdService.java
+END
+FriendlinkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/FriendlinkService.java
+END
+CollectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/CollectService.java
+END
+QuestionItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/QuestionItemService.java
+END
+AdSlotService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/AdSlotService.java
+END
+FriendlinkTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/FriendlinkTypeService.java
+END
+CollectFieldService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/CollectFieldService.java
+END
+VisitLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/VisitLogService.java
+END
+QuestionOptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/QuestionOptionService.java
+END
+GuestbookService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/GuestbookService.java
+END
+GuestbookTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/GuestbookTypeService.java
+END
+VoteOptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/VoteOptionService.java
+END
+QuestionRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/QuestionRecordService.java
+END
+QuestionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/QuestionService.java
+END
+VoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/service/VoteService.java
+END

@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository
+END
+TagDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/TagDao.java
+END
+WorkflowLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/WorkflowLogDao.java
+END
+SpecialCategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/SpecialCategoryDao.java
+END
+SpecialDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/SpecialDaoPlus.java
+END
+AttachmentRefDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/AttachmentRefDao.java
+END
+ScoreGroupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/ScoreGroupDao.java
+END
+NodeDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/NodeDaoPlus.java
+END
+VoteMarkDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/VoteMarkDaoPlus.java
+END
+SQLDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/SQLDao.java
+END
+InfoMemberGroupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoMemberGroupDao.java
+END
+UserDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/UserDetailDao.java
+END
+CommentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/CommentDao.java
+END
+InfoOrgDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoOrgDao.java
+END
+ModelFieldDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/ModelFieldDao.java
+END
+InfoDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoDetailDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/UserDao.java
+END
+PublishPointDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/PublishPointDaoPlus.java
+END
+InfoTagDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoTagDao.java
+END
+NodeMemberGroupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/NodeMemberGroupDao.java
+END
+ScheduleJobDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/ScheduleJobDaoPlus.java
+END
+AttachmentDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/AttachmentDaoPlus.java
+END
+NodeOrgDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/NodeOrgDao.java
+END
+InfoDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoDaoPlus.java
+END
+GlobalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/GlobalDao.java
+END
+UserRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/UserRoleDao.java
+END
+AttributeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/AttributeDao.java
+END
+ModelDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/ModelDaoPlus.java
+END
+SiteDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/SiteDao.java
+END
+WorkflowStepDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/WorkflowStepDao.java
+END
+TaskDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/TaskDaoPlus.java
+END
+OperationLogDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/OperationLogDaoPlus.java
+END
+NodeBufferDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/NodeBufferDao.java
+END
+TagDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/TagDaoPlus.java
+END
+SpecialDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/SpecialDao.java
+END
+SpecialCategoryDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/SpecialCategoryDaoPlus.java
+END
+NodeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/NodeDao.java
+END
+VoteMarkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/VoteMarkDao.java
+END
+WorkflowStepRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/WorkflowStepRoleDao.java
+END
+AttachmentRefDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/AttachmentRefDaoPlus.java
+END
+ScoreGroupDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/ScoreGroupDaoPlus.java
+END
+RoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/RoleDao.java
+END
+CommentDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/CommentDaoPlus.java
+END
+NodeRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/NodeRoleDao.java
+END
+WorkflowProcessDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/WorkflowProcessDao.java
+END
+WorkflowDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/WorkflowDao.java
+END
+InfoAttributeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoAttributeDao.java
+END
+PublishPointDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/PublishPointDao.java
+END
+UserDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/UserDaoPlus.java
+END
+ScoreBoardDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/ScoreBoardDao.java
+END
+UserMemberGroupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/UserMemberGroupDao.java
+END
+MemberGroupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/MemberGroupDao.java
+END
+InfoBufferDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoBufferDao.java
+END
+UserOrgDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/UserOrgDao.java
+END
+WorkflowGroupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/WorkflowGroupDao.java
+END
+ScheduleJobDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/ScheduleJobDao.java
+END
+OrgDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/OrgDao.java
+END
+AttachmentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/AttachmentDao.java
+END
+ScoreItemDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/ScoreItemDao.java
+END
+InfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoDao.java
+END
+InfoSpecialDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoSpecialDao.java
+END
+ModelDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/ModelDao.java
+END
+InfoNodeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/InfoNodeDao.java
+END
+TaskDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/TaskDao.java
+END
+OperationLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/OperationLogDao.java
+END
+SensitiveWordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/SensitiveWordDao.java
+END
+AttributeDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/AttributeDaoPlus.java
+END
+SiteDaoPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/SiteDaoPlus.java
+END
+NodeDetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/repository/NodeDetailDao.java
+END

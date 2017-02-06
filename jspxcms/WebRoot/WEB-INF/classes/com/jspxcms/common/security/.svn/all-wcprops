@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security
+END
+HashCredentialsDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/HashCredentialsDigest.java
+END
+PlainCredentialsDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/PlainCredentialsDigest.java
+END
+SHA512CredentialsDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/SHA512CredentialsDigest.java
+END
+CredentialsMatcherAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/CredentialsMatcherAdapter.java
+END
+Digests.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/Digests.java
+END
+Cryptos.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/Cryptos.java
+END
+UnactivatedAccountException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/UnactivatedAccountException.java
+END
+SHA256CredentialsDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/SHA256CredentialsDigest.java
+END
+SHA1CredentialsDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/SHA1CredentialsDigest.java
+END
+IncorrectCaptchaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/IncorrectCaptchaException.java
+END
+CredentialsDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/security/CredentialsDigest.java
+END

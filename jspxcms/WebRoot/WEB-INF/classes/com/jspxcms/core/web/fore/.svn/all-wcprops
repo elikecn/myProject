@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore
+END
+InfoController.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/InfoController.java
+END
+TagsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/TagsController.java
+END
+ContributionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/ContributionController.java
+END
+AppController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/AppController.java
+END
+OAuthController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/OAuthController.java
+END
+SpecialController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/SpecialController.java
+END
+CommentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/CommentController.java
+END
+SpecialsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/SpecialsController.java
+END
+RegisterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/RegisterController.java
+END
+UploadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/UploadController.java
+END
+NodeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/NodeController.java
+END
+SearchController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/SearchController.java
+END
+MemberController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/MemberController.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/fore/LoginController.java
+END

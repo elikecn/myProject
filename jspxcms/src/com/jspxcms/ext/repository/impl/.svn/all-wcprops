@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl
+END
+CollectFieldDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/CollectFieldDaoImpl.java
+END
+VisitLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/VisitLogDaoImpl.java
+END
+QuestionOptionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/QuestionOptionDaoImpl.java
+END
+GuestbookDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/GuestbookDaoImpl.java
+END
+GuestbookTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/GuestbookTypeDaoImpl.java
+END
+QuestionRecordDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/QuestionRecordDaoImpl.java
+END
+VoteOptionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/VoteOptionDaoImpl.java
+END
+QuestionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/QuestionDaoImpl.java
+END
+VoteDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/VoteDaoImpl.java
+END
+QuestionItemRecDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/QuestionItemRecDaoImpl.java
+END
+QuestionOptRecDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/QuestionOptRecDaoImpl.java
+END
+AdDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/AdDaoImpl.java
+END
+FriendlinkDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/FriendlinkDaoImpl.java
+END
+CollectDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/CollectDaoImpl.java
+END
+QuestionItemDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/QuestionItemDaoImpl.java
+END
+AdSlotDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/AdSlotDaoImpl.java
+END
+FriendlinkTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/repository/impl/FriendlinkTypeDaoImpl.java
+END

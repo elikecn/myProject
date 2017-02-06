@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl
+END
+QUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QUser.java
+END
+QSpecialCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QSpecialCategory.java
+END
+QInfoDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoDetail.java
+END
+QInfoComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoComment.java
+END
+QInfoAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoAttribute.java
+END
+QNodeBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QNodeBuffer.java
+END
+QSpecialFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QSpecialFile.java
+END
+QSpecial.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QSpecial.java
+END
+QPublishPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QPublishPoint.java
+END
+QUserMemberGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QUserMemberGroup.java
+END
+QSpecialImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QSpecialImage.java
+END
+QNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QNode.java
+END
+QWorkflowGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QWorkflowGroup.java
+END
+QInfoTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoTag.java
+END
+QOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QOrg.java
+END
+QScheduleJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QScheduleJob.java
+END
+QAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QAttachment.java
+END
+QInfoProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoProcess.java
+END
+QNodeOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QNodeOrg.java
+END
+QInfoImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoImage.java
+END
+QGlobal.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QGlobal.java
+END
+QInfoMemberGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoMemberGroup.java
+END
+QUserRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QUserRole.java
+END
+QRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QRole.java
+END
+QUserDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QUserDetail.java
+END
+QTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QTask.java
+END
+QOperationLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QOperationLog.java
+END
+QComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QComment.java
+END
+QAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QAttribute.java
+END
+QSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QSite.java
+END
+QSensitiveWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QSensitiveWord.java
+END
+QWorkflowStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QWorkflowStep.java
+END
+QNodeRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QNodeRole.java
+END
+QNodeDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QNodeDetail.java
+END
+QTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QTag.java
+END
+QScoreBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QScoreBoard.java
+END
+QMemberGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QMemberGroup.java
+END
+QInfoBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoBuffer.java
+END
+QAttachmentRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QAttachmentRef.java
+END
+QUserOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QUserOrg.java
+END
+QWorkflowStepRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QWorkflowStepRole.java
+END
+QVoteMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QVoteMark.java
+END
+QScoreGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QScoreGroup.java
+END
+QNodeMemberGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QNodeMemberGroup.java
+END
+QScoreItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QScoreItem.java
+END
+QInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfo.java
+END
+QInfoFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoFile.java
+END
+QInfoSpecial.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoSpecial.java
+END
+QModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QModel.java
+END
+QInfoNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoNode.java
+END
+QInfoOrg.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QInfoOrg.java
+END
+QModelField.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QModelField.java
+END
+QWorkflowProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QWorkflowProcess.java
+END
+QWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QWorkflow.java
+END
+QWorkflowLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/domaindsl/QWorkflowLog.java
+END

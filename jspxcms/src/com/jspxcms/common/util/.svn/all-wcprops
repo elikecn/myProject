@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util
+END
+Dates.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util/Dates.java
+END
+Encodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util/Encodes.java
+END
+Exceptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util/Exceptions.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util/Property.java
+END
+IpUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util/IpUtils.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util/Strings.java
+END
+ConstantConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util/ConstantConfigurer.java
+END
+Reflections.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util/Reflections.java
+END
+JsonMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/util/JsonMapper.java
+END

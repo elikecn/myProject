@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jspxcmsv6"
+  id="myeclipse.1454372703099"
+  context-root="/ROOT"
+  j2ee-spec="5.0"
+  archive="jspxcmsv6.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+

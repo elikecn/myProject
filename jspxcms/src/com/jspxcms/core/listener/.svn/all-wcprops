@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener
+END
+WorkflowStepDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/WorkflowStepDeleteListener.java
+END
+InfoListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/InfoListener.java
+END
+WorkflowDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/WorkflowDeleteListener.java
+END
+SpecialCategoryDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/SpecialCategoryDeleteListener.java
+END
+UserDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/UserDeleteListener.java
+END
+AbstractUserListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/AbstractUserListener.java
+END
+MemberGroupDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/MemberGroupDeleteListener.java
+END
+NodeDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/NodeDeleteListener.java
+END
+AbstractNodeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/AbstractNodeListener.java
+END
+OrgDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/OrgDeleteListener.java
+END
+WorkflowGroupDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/WorkflowGroupDeleteListener.java
+END
+ScoreItemDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/ScoreItemDeleteListener.java
+END
+InfoDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/InfoDeleteListener.java
+END
+AbstractInfoListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/AbstractInfoListener.java
+END
+ModelDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/ModelDeleteListener.java
+END
+RoleDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/RoleDeleteListener.java
+END
+NodeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/NodeListener.java
+END
+SiteDeleteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/listener/SiteDeleteListener.java
+END

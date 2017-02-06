@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/fulltext
+END
+LuceneIndexTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/fulltext/LuceneIndexTemplate.java
+END
+IndexWriterFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/fulltext/IndexWriterFactoryBean.java
+END
+NRTLuceneIndexTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/fulltext/NRTLuceneIndexTemplate.java
+END
+DefaultLuceneIndexTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/fulltext/DefaultLuceneIndexTemplate.java
+END
+SearcherManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/fulltext/SearcherManagerFactoryBean.java
+END
+LuceneException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/fulltext/LuceneException.java
+END
+FSDirectoryFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/fulltext/FSDirectoryFactoryBean.java
+END
+NRTManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/fulltext/NRTManagerFactoryBean.java
+END

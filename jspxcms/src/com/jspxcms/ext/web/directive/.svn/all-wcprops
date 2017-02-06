@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive
+END
+AdListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/AdListDirective.java
+END
+GuestbookTypeListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/GuestbookTypeListDirective.java
+END
+FriendlinkListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/FriendlinkListDirective.java
+END
+FriendlinkTypeListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/FriendlinkTypeListDirective.java
+END
+QuestionListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/QuestionListDirective.java
+END
+AbstractQuestionListPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/AbstractQuestionListPageDirective.java
+END
+QuestionPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/QuestionPageDirective.java
+END
+QuestionDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/QuestionDirective.java
+END
+VoteDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/VoteDirective.java
+END
+GuestbookListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/GuestbookListDirective.java
+END
+AbstractGuestbookListPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/AbstractGuestbookListPageDirective.java
+END
+GuestbookPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/directive/GuestbookPageDirective.java
+END

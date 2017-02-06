@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/domaindsl
+END
+QGuestbook.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/domaindsl/QGuestbook.java
+END
+QAd.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/domaindsl/QAd.java
+END
+QGuestbookType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/domaindsl/QGuestbookType.java
+END
+QFriendlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/domaindsl/QFriendlink.java
+END
+QAdSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/domaindsl/QAdSlot.java
+END
+QVoteOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/domaindsl/QVoteOption.java
+END
+QFriendlinkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/domaindsl/QFriendlinkType.java
+END
+QVote.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/domaindsl/QVote.java
+END

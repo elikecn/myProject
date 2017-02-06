@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/captcha
+END
+GmailEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/captcha/GmailEngine.java
+END
+Captchas.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/captcha/Captchas.java
+END
+CaptchaServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/captcha/CaptchaServlet.java
+END
+MyManageableImageCaptchaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/captcha/MyManageableImageCaptchaService.java
+END
+MyImageCaptchaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/captcha/MyImageCaptchaService.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global
+END
+types.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global/types.jsp
+END
+conf_global_other.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global/conf_global_other.jsp
+END
+conf_global_mail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global/conf_global_mail.jsp
+END
+conf_global_register.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global/conf_global_register.jsp
+END
+conf_global_upload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global/conf_global_upload.jsp
+END
+conf_global_base.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global/conf_global_base.jsp
+END
+conf_global_custom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global/conf_global_custom.jsp
+END
+model_predefined_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global/model_predefined_list.jsp
+END
+model_form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/conf_global/model_form.jsp
+END

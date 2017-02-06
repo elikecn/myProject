@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back
+END
+VoteController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/VoteController.java
+END
+VisitLogController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/VisitLogController.java
+END
+GuestbookController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/GuestbookController.java
+END
+AdController.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/AdController.java
+END
+GuestbookTypeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/GuestbookTypeController.java
+END
+CollectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/CollectController.java
+END
+FriendlinkController.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/FriendlinkController.java
+END
+AdSlotController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/AdSlotController.java
+END
+QuestionItemController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/QuestionItemController.java
+END
+FriendlinkTypeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/FriendlinkTypeController.java
+END
+QuestionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/QuestionController.java
+END
+GuestbookConfController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/GuestbookConfController.java
+END
+CollectFieldController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/ext/web/back/CollectFieldController.java
+END

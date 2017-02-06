@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file
+END
+Files.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/Files.java
+END
+FtpClientExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/FtpClientExtractor.java
+END
+SearchCommonFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/SearchCommonFileFilter.java
+END
+FtpTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/FtpTemplate.java
+END
+AntZipUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/AntZipUtils.java
+END
+FtpFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/FtpFileHandler.java
+END
+CommonFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/CommonFile.java
+END
+LocalFileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/LocalFileHandler.java
+END
+DirCommonFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/DirCommonFileFilter.java
+END
+FileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/FileHandler.java
+END
+WebFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/WebFile.java
+END
+CommonFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/common/file/CommonFileFilter.java
+END

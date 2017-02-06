@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/special
+END
+choose_special_multi.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/special/choose_special_multi.jsp
+END
+special_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/special/special_list.jsp
+END
+model_predefined_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/special/model_predefined_list.jsp
+END
+model_form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/special/model_form.jsp
+END
+special_form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/WebRoot/WEB-INF/views/core/special/special_form.jsp
+END

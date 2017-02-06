@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive
+END
+AbstractInfoFulltextListPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/AbstractInfoFulltextListPageDirective.java
+END
+AbstractNodeListPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/AbstractNodeListPageDirective.java
+END
+SQLUpdateDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/SQLUpdateDirective.java
+END
+TagListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/TagListDirective.java
+END
+AbstractInfoListPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/AbstractInfoListPageDirective.java
+END
+TagPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/TagPageDirective.java
+END
+SpecialCategoryListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/SpecialCategoryListDirective.java
+END
+SpecialListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/SpecialListDirective.java
+END
+SpecialPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/SpecialPageDirective.java
+END
+AbstractCommentListPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/AbstractCommentListPageDirective.java
+END
+InfoFulltextListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/InfoFulltextListDirective.java
+END
+InfoFulltextPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/InfoFulltextPageDirective.java
+END
+NodeListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/NodeListDirective.java
+END
+NodePageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/NodePageDirective.java
+END
+NodeDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/NodeDirective.java
+END
+SQLQueryDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/SQLQueryDirective.java
+END
+InfoListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/InfoListDirective.java
+END
+InfoPrevDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/InfoPrevDirective.java
+END
+InfoPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/InfoPageDirective.java
+END
+AbstractTagListPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/AbstractTagListPageDirective.java
+END
+ScoreGroupDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/ScoreGroupDirective.java
+END
+InfoNextDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/InfoNextDirective.java
+END
+InfoDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/InfoDirective.java
+END
+AbstractSpecialListPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/AbstractSpecialListPageDirective.java
+END
+CommentListDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/CommentListDirective.java
+END
+CommentPageDirective.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jspxcms/!svn/ver/12/jspxcmsv6/src/com/jspxcms/core/web/directive/CommentPageDirective.java
+END
