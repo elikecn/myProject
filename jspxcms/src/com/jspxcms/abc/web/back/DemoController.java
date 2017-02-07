@@ -6,11 +6,17 @@ import static com.jspxcms.core.support.Constants.MESSAGE;
 import static com.jspxcms.core.support.Constants.OPRT;
 import static com.jspxcms.core.support.Constants.SAVE_SUCCESS;
 
+import java.util.Map;
+
 import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
 
 import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort.Direction;
+import org.springframework.data.web.PageableDefaults;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
@@ -20,6 +26,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import com.jspxcms.abc.domain.Demo;
 import com.jspxcms.abc.service.DemoService;
+import com.jspxcms.common.web.Servlets;
 import com.jspxcms.core.support.Constants;
 import com.jspxcms.core.support.Context;
 
@@ -32,7 +39,13 @@ public class DemoController {
 	
 	@RequiresPermissions("abc:demo:list")
 	@RequestMapping("list.do")
-	public String list(HttpServletRequest request) {
+	public String list(
+			@PageableDefaults(sort = "id", sortDir = Direction.DESC) Pageable pageable
+			,HttpServletRequest request,Model model) {
+		Integer siteId = Context.getCurrentSiteId(request);
+		Map<String, String[]> params = Servlets.getParameterValuesMap(request, Constants.SEARCH_PREFIX);
+		Page<Demo> pageList = service.findAll(siteId, params, pageable);
+		model.addAttribute("pagedList", pageList);
 		return "abc/demo/list";
 	}
 

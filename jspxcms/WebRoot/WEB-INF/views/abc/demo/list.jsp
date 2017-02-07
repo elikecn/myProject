@@ -15,7 +15,6 @@
 <jsp:include page="/WEB-INF/views/commons/head.jsp"></jsp:include>
 </head>
 <body class="c-body">
-11111111111111111111222
 <jsp:include page="/WEB-INF/views/commons/show_message.jsp"/>
 <form action="list.do" method="get">
 	<fieldset class="c-fieldset">
@@ -27,9 +26,63 @@
 	  <label class="c-lab"><input type="submit" value="<s:message code="search"/>"/></label>
   </fieldset>
 </form>
-<shiro:hasPermission name="abc:demo:create">
+<form method="post">
+<tags:search_params/>
+<div class="ls-bc-opt">
+	<shiro:hasPermission name="abc:demo:create">
 	<div class="ls-btn"><input type="button" value="<s:message code="create"/>" onclick="location.href='create.do?${searchstring}';"/></div>
 	<div class="ls-btn"></div>
 	</shiro:hasPermission>
+	<shiro:hasPermission name="abc:demo:edit">
+	<div class="ls-btn"><input type="button" value="<s:message code="edit"/>" onclick="return optSingle('#edit_opt_');"/></div>
+	</shiro:hasPermission>
+	<shiro:hasPermission name="abc:demo:delete">
+	<div class="ls-btn"><input type="button" value="<s:message code="delete"/>" onclick="return optDelete(this.form);"/></div>
+	</shiro:hasPermission>
+	<div style="clear:both"></div>
+	</div>
+	<table id="pagedTable" border="0" cellpadding="0" cellspacing="0" class="ls-tb margin-top5">
+	  <thead id="sortHead" pagesort="<c:out value='${page_sort[0]}' />" pagedir="${page_sort_dir[0]}" pageurl="list.do?page_sort={0}&page_sort_dir={1}&${searchstringnosort}">
+	  <tr class="ls_table_th">
+	    <th width="25"><input type="checkbox" onclick="Cms.check('ids',this.checked);"/></th>
+	    <th width="110"><s:message code="operate"/></th>
+	    <th width="30" class="ls-th-sort"><span class="ls-sort" pagesort="id">ID</span></th>
+	    <th class="ls-th-sort"><span class="ls-sort" pagesort="createDate"><s:message code="demo.createDate"/></span></th>
+	    <th class="ls-th-sort"><span class="ls-sort" pagesort="name"><s:message code="demo.name"/></span></th>
+	    <th class="ls-th-sort"><span class="ls-sort" pagesort="sex"><s:message code="demo.sex"/></span></th>
+	    <th class="ls-th-sort"><span class="ls-sort" pagesort="email"><s:message code="demo.email"/></span></th>
+	    <th class="ls-th-sort"><span class="ls-sort" pagesort="birthDate"><s:message code="demo.birthDate"/></span></th>
+	  </tr>
+	  </thead>
+	  <tbody>
+	  <c:forEach var="bean" varStatus="status" items="${pagedList.content}">
+	  <tr<shiro:hasPermission name="abc:demo:edit"> ondblclick="location.href=$('#edit_opt_${bean.id}').attr('href');"</shiro:hasPermission>/>
+	    <td><input type="checkbox" name="ids" value="${bean.id}"/></td>
+	    <td align="center">
+				<shiro:hasPermission name="abc:demo:edit">
+	      <a id="edit_opt_${bean.id}" href="edit.do?id=${bean.id}&position=${pagedList.number*pagedList.size+status.index}&${searchstring}" class="ls-opt"><s:message code="edit"/></a>
+	      </shiro:hasPermission>
+				<shiro:hasPermission name="abc:demo:delete">
+	      <a href="delete.do?ids=${bean.id}&${searchstring}" onclick="return confirmDelete();" class="ls-opt"><s:message code="delete"/></a>
+	      </shiro:hasPermission>
+	    </td>
+	    <td><c:out value="${bean.id}"/></td>
+	    <td align="center"><fmt:formatDate value="${bean.createDate}" pattern="yyyy-MM-dd HH:mm:ss"/></td>
+	    <td><c:out value="${bean.name}"/></td>
+	    <td><c:choose><c:when test="${bean.sex=='M'}"><s:message code="male"/></c:when><c:otherwise><s:message code="female"/></c:otherwise></c:choose></td>
+	   <td><c:out value="${bean.email}"/></td>
+	    <td><fmt:formatDate value="${bean.birthDate}" pattern="yyyy-MM-dd"/></td>
+	  </tr>
+	  </c:forEach>
+	  </tbody>
+	</table>
+<c:if test="${fn:length(pagedList.content) le 0}"> 
+<div class="ls-norecord margin-top5"><s:message code="recordNotFound"/></div>
+</c:if>
+</form>
+<form action="list.do" method="get" class="ls-page">
+	<tags:search_params excludePage="true"/>
+  <tags:pagination pagedList="${pagedList}"/>
+</form>
 </body>
 </html>
