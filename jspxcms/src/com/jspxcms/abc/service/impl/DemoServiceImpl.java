@@ -3,6 +3,7 @@ package com.jspxcms.abc.service.impl;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Date;
+import java.util.List;
 import java.util.Map;
 
 import javax.persistence.criteria.CriteriaBuilder;
@@ -21,6 +22,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.jspxcms.abc.domain.Demo;
 import com.jspxcms.abc.repository.DemoDao;
 import com.jspxcms.abc.service.DemoService;
+import com.jspxcms.common.orm.Limitable;
 import com.jspxcms.common.orm.SearchFilter;
 import com.jspxcms.core.domain.Site;
 import com.jspxcms.core.listener.SiteDeleteListener;
@@ -103,6 +105,11 @@ public class DemoServiceImpl implements DemoService,SiteDeleteListener{
 	public Demo update(Demo demo) {
 		demo = demoDao.save(demo);
 		return demo;
+	}
+
+	@Override
+	public List<Demo> findList(Integer[] siteId, Limitable limitable) {
+		return demoDao.getList(siteId, limitable);
 	}
 
 }

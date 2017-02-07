@@ -13,7 +13,7 @@ import org.springframework.data.repository.Repository;
 import com.jspxcms.abc.domain.Demo;
 import com.jspxcms.common.orm.Limitable;
 
-public interface DemoDao extends Repository<Demo, Integer>{
+public interface DemoDao extends Repository<Demo, Integer>,DemoDaoPlus{
 	
 	public Page<Demo> findAll(Specification<Demo> spec,Pageable pageable);
 	

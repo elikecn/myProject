@@ -1,24 +1,31 @@
 package com.jspxcms.abc.web.back;
 
 import static com.jspxcms.core.support.Constants.CREATE;
+import static com.jspxcms.core.support.Constants.DELETE_SUCCESS;
 import static com.jspxcms.core.support.Constants.EDIT;
 import static com.jspxcms.core.support.Constants.MESSAGE;
 import static com.jspxcms.core.support.Constants.OPRT;
 import static com.jspxcms.core.support.Constants.SAVE_SUCCESS;
 
+import java.util.List;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import javax.validation.Valid;
 
 import org.apache.shiro.authz.annotation.RequiresPermissions;
+import org.jeecgframework.poi.excel.entity.ExportParams;
+import org.jeecgframework.poi.excel.entity.vo.NormalExcelConstants;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
 import org.springframework.data.domain.Sort.Direction;
 import org.springframework.data.web.PageableDefaults;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -26,6 +33,8 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import com.jspxcms.abc.domain.Demo;
 import com.jspxcms.abc.service.DemoService;
+import com.jspxcms.common.orm.LimitRequest;
+import com.jspxcms.common.orm.Limitable;
 import com.jspxcms.common.web.Servlets;
 import com.jspxcms.core.support.Constants;
 import com.jspxcms.core.support.Context;
@@ -102,6 +111,30 @@ public class DemoController {
 			ra.addAttribute("id", demo.getId());
 			return "redirect:edit.do";
 		}
+	}
+	
+	@RequiresPermissions("abc:demo:delete")
+	@RequestMapping("delete.do")
+	public String delete(Integer[] ids, HttpServletRequest request,
+			RedirectAttributes ra){
+		service.delete(ids);
+		ra.addFlashAttribute(MESSAGE, DELETE_SUCCESS);
+		return "redirect:list.do";
+	}
+	
+	@RequiresPermissions("abc:demo:export")
+	@RequestMapping("export.do")
+	public String exportXls(Demo demo,HttpServletRequest request,HttpServletResponse response
+            ,ModelMap map){
+		Integer siteId = Context.getCurrentSiteId(request);
+		Sort sort = new Sort("id");
+		Limitable limitable = new LimitRequest(null, null, sort);
+		List<Demo> demos = service.findList(new Integer[]{siteId}, limitable);
+		map.put(NormalExcelConstants.FILE_NAME,"用户信息");
+        map.put(NormalExcelConstants.CLASS,Demo.class);
+        map.put(NormalExcelConstants.PARAMS,new ExportParams("课程列表", "导出人:Jeecg", "导出信息"));
+        map.put(NormalExcelConstants.DATA_LIST,demos);
+		return NormalExcelConstants.JEECG_EXCEL_VIEW;
 	}
 	
 	@ModelAttribute("bean")

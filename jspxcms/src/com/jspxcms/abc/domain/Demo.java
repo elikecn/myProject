@@ -18,12 +18,15 @@ import javax.persistence.TemporalType;
 import javax.validation.constraints.Pattern;
 
 import org.hibernate.validator.constraints.NotBlank;
+import org.jeecgframework.poi.excel.annotation.Excel;
+import org.jeecgframework.poi.excel.annotation.ExcelTarget;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import com.jspxcms.core.domain.Site;
 
 @Entity
 @Table(name="abc_demo")
+@ExcelTarget("demoEntity")
 public class Demo implements Serializable{
 	
 	private static final long serialVersionUID = 1L;
@@ -58,6 +61,7 @@ public class Demo implements Serializable{
 	 */
 	@NotBlank
 	@Column(name = "f_name", nullable = false, length = 100)
+	@Excel(name = "姓名", orderNum = "1", needMerge = true)
 	private String name;
 	
 	/**
@@ -66,6 +70,7 @@ public class Demo implements Serializable{
 	/*@NotBlank*/
 	@Pattern(regexp = "['M','F']")
 	@Column(name = "f_sex", nullable = false, length = 1)
+	@Excel(name="性别", orderNum = "2" )
 	private String sex;
 	
 	/**
@@ -74,6 +79,7 @@ public class Demo implements Serializable{
 	@Temporal(TemporalType.DATE)
 	@Column(name = "f_birth_date", length = 19)
 	@DateTimeFormat(pattern="yyyy-MM-dd")
+	@Excel(name="生日")
 	private Date birthDate;
 	
 	/**
@@ -82,18 +88,21 @@ public class Demo implements Serializable{
 	@Temporal(TemporalType.TIMESTAMP)
 	@Column(name = "f_create_date", length = 19)
 	@DateTimeFormat(pattern="yyyy-MM-dd HH:mm:ss")
+	@Excel(name="创建时间")
 	private Date createDate;
 	
 	/**
 	 * 邮箱
 	 */
 	@Column(name = "f_email", length = 100)
+	@Excel(name="电子邮箱")
 	private String email;
 	
 	/**
 	 * 头像
 	 */
 	@Column(name = "f_icon", length = 500)
+	@Excel(name="头像", type=2, savePath="uploads")
 	private String icon;
 	
 	/**
@@ -101,6 +110,7 @@ public class Demo implements Serializable{
 	 */
 	/*@NotBlank*/
 	@Column(name = "f_remark")
+	@Excel(name="备注")
 	private String remark;
 	
 	public Integer getId() {

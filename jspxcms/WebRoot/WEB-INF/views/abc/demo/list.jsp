@@ -13,18 +13,51 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <title>demo-list</title>
 <jsp:include page="/WEB-INF/views/commons/head.jsp"></jsp:include>
+<script type="text/javascript">
+$(function() {
+	$("#pagedTable").tableHighlight();
+	$("#sortHead").headSort();
+});
+function confirmDelete() {
+	return confirm("<s:message code='confirmDelete'/>");
+}
+function optSingle(opt) {
+	if(Cms.checkeds("ids")==0) {
+		alert("<s:message code='pleaseSelectRecord'/>");
+		return false;
+	}
+	if(Cms.checkeds("ids")>1) {
+		alert("<s:message code='pleaseSelectOne'/>");
+		return false;
+	}
+	var id = $("input[name='ids']:checkbox:checked").val();
+	location.href=$(opt+id).attr("href");
+}
+function optDelete(form) {
+	if(Cms.checkeds("ids")==0) {
+		alert("<s:message code='pleaseSelectRecord'/>");
+		return false;
+	}
+	if(!confirmDelete()) {
+		return false;
+	}
+	form.action='delete.do';
+	form.submit();
+	return true;
+}
+</script>
 </head>
 <body class="c-body">
 <jsp:include page="/WEB-INF/views/commons/show_message.jsp"/>
 <form action="list.do" method="get">
 	<fieldset class="c-fieldset">
-    <legend><s:message code="search"/></legend>
-	  <label class="c-lab"><s:message code="demo.name"/>: <input type="text" name="search_CONTAIN_name" value="${search_CONTAIN_name[0]}"/></label>
-	  <label class="c-lab"><s:message code="demo.sex"/>: <input type="text" name="search_LIKE_sex" value="${search_LIKE_sex[0]}"/></label>
-	  <label class="c-lab"><s:message code="demo.beginDate"/>: <f:text name="search_GTE_createDate_Date" value="${search_GTE_createDate_Date[0]}" onclick="WdatePicker({dateFmt:'yyyy-MM-dd'});" style="width:80px;"/></label>
-	  <label class="c-lab"><s:message code="demo.endDate"/>: <f:text name="search_LTE_createDate_Date" value="${search_LTE_createDate_Date[0]}" onclick="WdatePicker({dateFmt:'yyyy-MM-dd'});" style="width:80px;"/></label>
-	  <label class="c-lab"><input type="submit" value="<s:message code="search"/>"/></label>
-  </fieldset>
+		<legend><s:message code="search"/></legend>
+		<label class="c-lab"><s:message code="demo.name"/>: <input type="text" name="search_CONTAIN_name" value="${search_CONTAIN_name[0]}"/></label>
+		<label class="c-lab"><s:message code="demo.sex"/>: <input type="text" name="search_LIKE_sex" value="${search_LIKE_sex[0]}"/></label>
+		<label class="c-lab"><s:message code="demo.beginDate"/>: <f:text name="search_GTE_createDate_Date" value="${search_GTE_createDate_Date[0]}" onclick="WdatePicker({dateFmt:'yyyy-MM-dd'});" style="width:80px;"/></label>
+		<label class="c-lab"><s:message code="demo.endDate"/>: <f:text name="search_LTE_createDate_Date" value="${search_LTE_createDate_Date[0]}" onclick="WdatePicker({dateFmt:'yyyy-MM-dd'});" style="width:80px;"/></label>
+		<label class="c-lab"><input type="submit" value="<s:message code="search"/>"/></label>
+  	</fieldset>
 </form>
 <form method="post">
 <tags:search_params/>
@@ -38,6 +71,9 @@
 	</shiro:hasPermission>
 	<shiro:hasPermission name="abc:demo:delete">
 	<div class="ls-btn"><input type="button" value="<s:message code="delete"/>" onclick="return optDelete(this.form);"/></div>
+	</shiro:hasPermission>
+	<shiro:hasPermission name="abc:demo:export">
+	<div class="ls-btn"><input type="button" value="<s:message code="demo.export"/>" onclick="location.href='export.do';"/></div>
 	</shiro:hasPermission>
 	<div style="clear:both"></div>
 	</div>
@@ -59,30 +95,30 @@
 	  <tr<shiro:hasPermission name="abc:demo:edit"> ondblclick="location.href=$('#edit_opt_${bean.id}').attr('href');"</shiro:hasPermission>/>
 	    <td><input type="checkbox" name="ids" value="${bean.id}"/></td>
 	    <td align="center">
-				<shiro:hasPermission name="abc:demo:edit">
-	      <a id="edit_opt_${bean.id}" href="edit.do?id=${bean.id}&position=${pagedList.number*pagedList.size+status.index}&${searchstring}" class="ls-opt"><s:message code="edit"/></a>
-	      </shiro:hasPermission>
-				<shiro:hasPermission name="abc:demo:delete">
-	      <a href="delete.do?ids=${bean.id}&${searchstring}" onclick="return confirmDelete();" class="ls-opt"><s:message code="delete"/></a>
-	      </shiro:hasPermission>
+			<shiro:hasPermission name="abc:demo:edit">
+			<a id="edit_opt_${bean.id}" href="edit.do?id=${bean.id}&position=${pagedList.number*pagedList.size+status.index}&${searchstring}" class="ls-opt"><s:message code="edit"/></a>
+			</shiro:hasPermission>
+			<shiro:hasPermission name="abc:demo:delete">
+			<a href="delete.do?ids=${bean.id}&${searchstring}" onclick="return confirmDelete();" class="ls-opt"><s:message code="delete"/></a>
+			</shiro:hasPermission>
 	    </td>
 	    <td><c:out value="${bean.id}"/></td>
 	    <td align="center"><fmt:formatDate value="${bean.createDate}" pattern="yyyy-MM-dd HH:mm:ss"/></td>
 	    <td><c:out value="${bean.name}"/></td>
 	    <td><c:choose><c:when test="${bean.sex=='M'}"><s:message code="male"/></c:when><c:otherwise><s:message code="female"/></c:otherwise></c:choose></td>
-	   <td><c:out value="${bean.email}"/></td>
+	    <td><c:out value="${bean.email}"/></td>
 	    <td><fmt:formatDate value="${bean.birthDate}" pattern="yyyy-MM-dd"/></td>
 	  </tr>
 	  </c:forEach>
 	  </tbody>
-	</table>
-<c:if test="${fn:length(pagedList.content) le 0}"> 
-<div class="ls-norecord margin-top5"><s:message code="recordNotFound"/></div>
-</c:if>
+	  </table>
+	<c:if test="${fn:length(pagedList.content) le 0}"> 
+	<div class="ls-norecord margin-top5"><s:message code="recordNotFound"/></div>
+	</c:if>
 </form>
 <form action="list.do" method="get" class="ls-page">
 	<tags:search_params excludePage="true"/>
-  <tags:pagination pagedList="${pagedList}"/>
+	<tags:pagination pagedList="${pagedList}"/>
 </form>
 </body>
 </html>
