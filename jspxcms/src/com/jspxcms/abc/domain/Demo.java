@@ -18,6 +18,7 @@ import javax.persistence.TemporalType;
 import javax.validation.constraints.Pattern;
 
 import org.hibernate.validator.constraints.NotBlank;
+import org.springframework.format.annotation.DateTimeFormat;
 
 import com.jspxcms.core.domain.Site;
 
@@ -62,7 +63,7 @@ public class Demo implements Serializable{
 	/**
 	 * 性别
 	 */
-	@NotBlank
+	/*@NotBlank*/
 	@Pattern(regexp = "['M','F']")
 	@Column(name = "f_sex", nullable = false, length = 1)
 	private String sex;
@@ -70,15 +71,17 @@ public class Demo implements Serializable{
 	/**
 	 * 生日
 	 */
-	@Temporal(TemporalType.TIMESTAMP)
-	@Column(name = "f_birth_date", nullable = false, length = 19)
+	@Temporal(TemporalType.DATE)
+	@Column(name = "f_birth_date", length = 19)
+	@DateTimeFormat(pattern="yyyy-MM-dd")
 	private Date birthDate;
 	
 	/**
 	 * 创建时间
 	 */
 	@Temporal(TemporalType.TIMESTAMP)
-	@Column(name = "f_create_date", nullable = false, length = 19)
+	@Column(name = "f_create_date", length = 19)
+	@DateTimeFormat(pattern="yyyy-MM-dd HH:mm:ss")
 	private Date createDate;
 	
 	/**

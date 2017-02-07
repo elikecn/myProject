@@ -25,7 +25,7 @@ function confirmDelete() {
 </head>
 <body class="c-body">
 <jsp:include page="/WEB-INF/views/commons/show_message.jsp"/>
-............................................
+<%-- ............................................
 <form action="save.do" method="post">
 	<input type="hidden" id="redirect" name="redirect" value="edit"/>
 	姓名：<input type="text" name="name"/><br/>
@@ -34,10 +34,11 @@ function confirmDelete() {
          生日：<input type="text" name="birthDate" onclick="WdatePicker({dateFmt:'yyyy-MM-dd'});"/><br />
          创建时间：<input type="text" name="createDate" onclick="WdatePicker({dateFmt:'yyyy-MM-dd'});"/><br />
          邮箱：<input type="text" name="email"/><br />
-         头像：:<tags:image_upload name="icon" value="${demo.icon}" width="128" height="128"/><br />
+         头像：<tags:image_upload name="icon" width="128" height="128"/><br />
+         备注 ：<input type="text" name="remark"/>    
          <input type="submit" value="提交"/>
-</form>
-<%-- <div class="c-bar margin-top5">
+</form> --%>
+<div class="c-bar margin-top5">
   <span class="c-position"><s:message code="demo"/> - <s:message code="${oprt=='edit' ? 'edit' : 'create'}"/></span>
 </div>
 <form id="validForm" action="${oprt=='edit' ? 'update' : 'save'}.do" method="post">
@@ -77,13 +78,13 @@ function confirmDelete() {
     <td class="in-lab" width="15%"><em class="required">*</em><s:message code="demo.sex"/>:</td>
     <td class="in-ctt" width="35%">
     	<label><f:radio name="sex" value="M" checked="${demo.sex}" default="M"/><s:message code="male"/></label> &nbsp;
-    	<label><f:radio name="sex" value="O" checked="${demo.sex}"/><s:message code="female"/></label>
+    	<label><f:radio name="sex" value="F" checked="${demo.sex}"/><s:message code="female"/></label>
     </td>
   </tr>
-  <tr>
+  <%-- <tr>
     <td class="in-lab" width="15%"><c:if test="${oprt=='edit'}"><em class="required">*</em></c:if><s:message code="demo.createDate"/>:</td>
-    <td class="in-ctt" width="35%"><input type="text" name="createDate" value="<c:if test="${oprt=='edit'}"><fmt:formatDate value="${demo.createDate}" pattern="yyyy-MM-dd'T'HH:mm:ss"/></c:if>" onclick="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'});" class="${oprt=='edit' ? 'required' : ''}" style="width:180px;"/></td>
-  </tr>
+    <td class="in-ctt" width="35%"><input type="text" name="createDate" value="<fmt:formatDate value="${demo.createDate}" pattern="yyyy-MM-dd HH:mm:ss"/>" onclick="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'});" style="width:180px;"/></td>
+  </tr> --%>
   <tr>
     <td class="in-lab" width="15%"><s:message code="demo.email"/>:</td>
     <td class="in-ctt" width="35%"><f:text name="email" value="${demo.email}" class="email" maxlength="100" style="width:180px;"/></td>
@@ -107,6 +108,6 @@ function confirmDelete() {
     </td>
   </tr>
 </table>
-</form> --%>
+</form>
 </body>
 </html>

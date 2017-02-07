@@ -2,6 +2,7 @@ package com.jspxcms.abc.service.impl;
 
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.Date;
 import java.util.Map;
 
 import javax.persistence.criteria.CriteriaBuilder;
@@ -91,6 +92,7 @@ public class DemoServiceImpl implements DemoService,SiteDeleteListener{
 	@Transactional
 	public Demo save(Demo demo, Integer siteId) {
 		Site site = SiteService.get(siteId);
+		demo.setCreateDate(new Date());
 		demo.setSite(site);
 		demo = demoDao.save(demo);
 		return demo;

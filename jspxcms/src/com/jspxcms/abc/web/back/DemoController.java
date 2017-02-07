@@ -53,6 +53,10 @@ public class DemoController {
 			RedirectAttributes ra,String redirect){
 		Integer siteId = Context.getCurrentSiteId(request);
 		service.save(bean, siteId);
+		//为了防止用户刷新重复提交，save操作之后一般会redirect到另一个页面，同时带点操作成功的提示信息。
+		//因为是Redirect，Request里的attribute不会传递过去，
+		//如果放在session中，则需要在显示后及时清理，不然下面每一页都带着这个信息也不对。
+		//Spring在3.1才提供了这个能力
 		ra.addFlashAttribute(MESSAGE, SAVE_SUCCESS);
 		if(Constants.REDIRECT_LIST.equals(redirect)){
 			return "redirect:list.do";
@@ -70,15 +74,14 @@ public class DemoController {
 		Demo demo = service.findOne(id);
 		model.addAttribute("demo", demo);
 		model.addAttribute(OPRT, EDIT);
-		return "abc:demo:create";
+		return "abc/demo/create";
 	}
 	
 	@RequiresPermissions("abc:demo:update")
 	@RequestMapping("update.do")
 	public String update(@ModelAttribute("bean") Demo demo,String redirect, 
 			HttpServletRequest request, RedirectAttributes ra){
-		Integer siteId = Context.getCurrentSiteId(request);
-		service.save(demo, siteId);
+		service.update(demo);
 		ra.addFlashAttribute(MESSAGE, SAVE_SUCCESS);
 		if (Constants.REDIRECT_LIST.equals(redirect)) {
 			return "redirect:list.do";
