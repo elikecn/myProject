@@ -1,0 +1,7 @@
+var name = "www.json.com";
+var age = 3;
+var male = true;
+console.log(typeof(name));
+console.log(typeof(age));
+console.log(typeof(male));
+是否会乱码呢？
